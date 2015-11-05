@@ -1,3 +1,12 @@
+/* 
+    - Trabalho 2 de Programacao de Computadores I - Retangulo
+    - Curso de Sistemas de Informacao
+    
+    - Aluna: Juliana Freitas Cerqueira - Matricula: 0050012979
+    
+    - Professor: Alex Salgado
+*/
+
 #include <stdio.h>
 
 int main()
