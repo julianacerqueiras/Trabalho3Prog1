@@ -1,10 +1,6 @@
 /* 
     - Trabalho 3 de Programacao de Computadores I - Batalha Naval
     - Curso de Sistemas de Informacao
-    
-    - Aluna: Juliana Freitas Cerqueira - Matricula: 0050012979
-    
-    - Professor: Alex Salgado
 */
 
 #include <stdio.h>
